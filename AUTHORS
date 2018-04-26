@@ -1,0 +1,13 @@
+Scrapely was originally written by Shane Evans and released as part of the
+(larger) Scrapy open source project by Pablo Hoffman. In April of 2011 Scrapely
+was taken out of Scrapy, and released as a standalone library, to improve its
+reusage and adoption.
+
+Here is the list of the main contributors (along with their github users):
+
+ * Shane Evans (shane42)
+ * Pablo Hoffman (pablohoffman)
+ * Martin Olveyra (kalessin)
+ * Daniel Graña (dangra)
+ * Terry Peng (tpeng)
+ * Mikhail Korobov (kmike)
