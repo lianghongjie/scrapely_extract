@@ -1,4 +1,0 @@
-include scrapely/*.pyx
-include scrapely/extraction/*.pyx
-include scrapely/*.c
-include scrapely/extraction/*.c
